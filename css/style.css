@@ -221,7 +221,7 @@ header {
   url("../img/services-bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center top;
     height: 85vh;
     position: relative;
 
